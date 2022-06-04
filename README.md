@@ -2,9 +2,9 @@
 <h5 align="center">A passionate frontend developer from Venezuela in Argentina</h5>
 
 - 🏅 The best project now [Dino.cka](https://github.com/josuehoenicka/Dino.cka)
-- 🥇 Last project [Calculator](https://github.com/josuehoenicka/Calculator)
-- 🥈 First project [ToDoList](https://github.com/josuehoenicka/ToDoList)
-- 🌱 I’m currently learning **JavaScript & Frameworks js**
+- 🔥 Last project [Calculator](https://github.com/josuehoenicka/Calculator)
+- 🕸 First project [ToDoList](https://github.com/josuehoenicka/ToDoList)
+- 📚 I’m currently learning **JavaScript & Frameworks js**
 - 📫 How to reach me **josuee.vzla@gmail.com**
 - 😜 Me off code **I'll practice freestyle football or playing games RTS or strategic**
 
