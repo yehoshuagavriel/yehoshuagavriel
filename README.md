@@ -5,8 +5,8 @@
 - 🔥 Last project [Calculator](https://github.com/josuehoenicka/Calculator)
 - 🕸 First project [ToDoList](https://github.com/josuehoenicka/ToDoList)
 - 📚 I’m currently learning **JavaScript & Frameworks js**
+- 😜 Me off code **I'll practice freestyle football or I'll play games RTS or strategic**
 - 📫 How to reach me **josuee.vzla@gmail.com**
-- 😜 Me off code **I'll practice freestyle football or playing games RTS or strategic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
