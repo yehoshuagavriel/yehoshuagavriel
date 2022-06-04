@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Josue Hoenicka</h1>
 <h3 align="center">A passionate frontend developer from Venezuela in Argentina</h3>
 
-- 🏅 The best project now [Dino.cka](https://github.com/josuehoenicka/Dino.cka)
-
 - 🥇 Last project [Calculator](https://github.com/josuehoenicka/Calculator)
+
+- 🌱 I’m currently learning **JavaScript & Frameworks js**
 
 - 🥈 First project [ToDoList](https://github.com/josuehoenicka/ToDoList)
 
-- 🌱 I’m currently learning **JavaScript & Frameworks js**
+- 🏅 The best project now [Dino.cka](https://github.com/josuehoenicka/Dino.cka)
 
 - 📫 How to reach me **josuee.vzla@gmail.com**
 
@@ -28,3 +28,5 @@
 <p><a href="https://www.buymeacoffee.com/josuehoenicka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuehoenicka" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuehoenicka&show_icons=true&locale=en&layout=compact" alt="josuehoenicka" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark" alt="josuehoenicka" /></p>
