@@ -1,16 +1,11 @@
-<h1 align="center">Hi 👋, I'm Josue Hoenicka</h1>
-<h3 align="center">A passionate frontend developer from Venezuela in Argentina</h3>
-
-- 🥇 Last project [Calculator](https://github.com/josuehoenicka/Calculator)
-
-- 🌱 I’m currently learning **JavaScript & Frameworks js**
-
-- 🥈 First project [ToDoList](https://github.com/josuehoenicka/ToDoList)
+<h3 align="center">Hi 👋, I'm Josue Hoenicka</h3>
+<h5 align="center">A passionate frontend developer from Venezuela in Argentina</h5>
 
 - 🏅 The best project now [Dino.cka](https://github.com/josuehoenicka/Dino.cka)
-
+- 🥇 Last project [Calculator](https://github.com/josuehoenicka/Calculator)
+- 🥈 First project [ToDoList](https://github.com/josuehoenicka/ToDoList)
+- 🌱 I’m currently learning **JavaScript & Frameworks js**
 - 📫 How to reach me **josuee.vzla@gmail.com**
-
 - 😜 Me off code **I'll practice freestyle football or playing games RTS or strategic**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,4 +22,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/josuehoenicka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuehoenicka" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuehoenicka&show_icons=true&theme=highcontrast&title_color=00a303&text_color=ffffff&bg_color=00a303&locale=en&layout=compact" alt="josuehoenicka" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuehoenicka&show_icons=true&theme=highcontrast&title_color=00a303&text_color=00a303&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="josuehoenicka" /></p>
