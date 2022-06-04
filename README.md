@@ -27,6 +27,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/josuehoenicka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuehoenicka" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuehoenicka&show_icons=true&locale=en&layout=compact" alt="josuehoenicka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark" alt="josuehoenicka" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuehoenicka&show_icons=true&theme=dark&title_color=9d2020&text_color=ffffff&locale=en&layout=compact" alt="josuehoenicka" /></p>
