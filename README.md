@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Josue Hoenicka</h1>
 <h3 align="center">A passionate frontend developer from Venezuela in Argentina</h3>
 
-- 🥇 Last project [Calculator](https://github.com/josuehoenicka/Calculator)
+- 🏅 The best project now [Dino.cka](https://github.com/josuehoenicka/Dino.cka)
 
-- 🌱 I’m currently learning **JavaScript & Frameworks js**
+- 🥇 Last project [Calculator](https://github.com/josuehoenicka/Calculator)
 
 - 🥈 First project [ToDoList](https://github.com/josuehoenicka/ToDoList)
 
-- 🏅 The best project now [Dino.cka](https://github.com/josuehoenicka/Dino.cka)
+- 🌱 I’m currently learning **JavaScript & Frameworks js**
 
 - 📫 How to reach me **josuee.vzla@gmail.com**
 
