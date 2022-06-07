@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Josue Hoenicka!</h3>
+<h3 align="center">Hi, I'm Josue Hoenicka! 👋</h3>
 
 - 🏅 Best project [dino.cka](https://github.com/josuehoenicka/dino.cka)
 - 🆕 Last project [playhoenicka-v3](https://github.com/josuehoenicka/playhoenicka-v3)
