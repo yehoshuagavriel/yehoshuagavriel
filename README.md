@@ -1,14 +1,14 @@
 <h3 align="center">Hi 👋, I'm Josue Hoenicka</h3>
 <h5 align="center">A passionate frontend developer from Venezuela in Argentina</h5>
 
-- 🏅 The best project now [dino.cka](https://github.com/josuehoenicka/Dino.cka)
-- 🔥 Last project [calculator](https://github.com/josuehoenicka/Calculator)
-- 🕸 First project [to-do-list](https://github.com/josuehoenicka/ToDoList)
+- 🏅 Best project [dino.cka](https://github.com/josuehoenicka/dino.cka)
+- 🆕 Last project [playhoenicka-v3](https://github.com/josuehoenicka/playhoenicka-v3)
+- 🕸 First project [to-do-list](https://github.com/josuehoenicka/to-do-list)
 - 📚 I’m currently learning **JavaScript**
-- 😜 Me off code **I'll play games RTS or strategic**
-- 📫 How to reach me **josuee.vzla@gmail.com**
+- 🍿 Me off code **I'll play games RTS or strategic or I'll practice freestyle football**
+- ✉ How to reach me **josuee.vzla@gmail.com**
 
-<h3 align="left">Social Media:</h3>
+<h3 align="left">Social media:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/josuehoenicka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josuehoenicka" height="30" width="40" /></a>
 <a href="https://instagram.com/josuehoenicka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josuehoenicka" height="30" width="40" /></a>
