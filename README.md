@@ -1,5 +1,4 @@
-<h3 align="center">Hi 👋, I'm Josue Hoenicka</h3>
-<h5 align="center">A passionate frontend developer from Venezuela in Argentina</h5>
+<h3 align="center">Hi, I'm Josue Hoenicka!</h3>
 
 - 🏅 Best project [dino.cka](https://github.com/josuehoenicka/dino.cka)
 - 🆕 Last project [playhoenicka-v3](https://github.com/josuehoenicka/playhoenicka-v3)
