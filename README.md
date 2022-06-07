@@ -1,9 +1,9 @@
-<h3 align="center">Hi, I'm Josue Hoenicka! 👋</h3>
+<h3 align="center">Hi, I'm Josue Hoenicka 👋</h3>
 
-- 🏅 Best project [dino.cka](https://github.com/josuehoenicka/dino.cka)
-- 🆕 Last project [playhoenicka-v3](https://github.com/josuehoenicka/playhoenicka-v3)
-- 🕸 First project [to-do-list](https://github.com/josuehoenicka/to-do-list)
-- ✉ How to reach me **josuee.vzla@gmail.com**
+- 🏅 Best project: [dino.cka](https://github.com/josuehoenicka/dino.cka)
+- 🆕 Last project: [playhoenicka-v3](https://github.com/josuehoenicka/playhoenicka-v3)
+- 🕸 First project: [to-do-list](https://github.com/josuehoenicka/to-do-list)
+- ✉ To reach me **josuee.vzla@gmail.com**
 
 <h3 align="left">Social media:</h3>
 <p align="left">
