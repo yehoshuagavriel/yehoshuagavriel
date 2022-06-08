@@ -1,8 +1,8 @@
 <h3 align="center">Hi, I'm Josue Hoenicka 👋</h3>
 
-- 🏅 Best project: **playhoenicka** *(personal proyect)*
-- 🆕 Last project: [calculator](https://github.com/josuehoenicka/calculator)
-- 🕸 First project: [to-do-list](https://github.com/josuehoenicka/to-do-list)
+- 🏅 Best project: **playhoenicka** *(private)*
+- 🆕 Last project: [calculator](https://github.com/josuehoenicka/calculator) *(public)*
+- 🕸 First project: [to-do-list](https://github.com/josuehoenicka/to-do-list)*(public)*
 - ✉ To reach me **josuee.vzla@gmail.com**
 
 <h3 align="left">Social media:</h3>
