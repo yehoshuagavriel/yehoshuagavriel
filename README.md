@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Josue Hoenicka 👋</h3>
 
-- 🏅 Best project: [dino.cka](https://github.com/josuehoenicka/dino.cka)
+- 🏅 Best project: **playhoenicka** *(personal proyect)*
 - 🆕 Last project: [calculator](https://github.com/josuehoenicka/calculator)
 - 🕸 First project: [to-do-list](https://github.com/josuehoenicka/to-do-list)
 - ✉ To reach me **josuee.vzla@gmail.com**
