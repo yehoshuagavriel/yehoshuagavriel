@@ -1,8 +1,8 @@
 <h3 align="center">Hi, I'm Josue Hoenicka 👋</h3>
 
-- 🏅 Best project: **playhoenicka** *(code private)*
-- 🆕 Last project: [wordie.cka](https://github.com/josuehoenicka/wordie.cka) *(code public)*
-- 🕸 First project: [form](https://github.com/josuehoenicka/form) *(code public)*
+- 🏅 Best project: **playhoenicka** *(private code)*
+- 🆕 Last project: [wordie.cka](https://github.com/josuehoenicka/wordie.cka) *(public code)*
+- 🕸 First project: [form](https://github.com/josuehoenicka/form) *(public code)*
 - ✉ To reach me **josuee.vzla@gmail.com**
 
 <h3 align="left">Social media:</h3>
