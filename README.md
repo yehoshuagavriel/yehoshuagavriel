@@ -2,7 +2,7 @@
 
 - 🏅 Best project: **playhoenicka** *(private)*
 - 🆕 Last project: [calculator](https://github.com/josuehoenicka/calculator) *(public)*
-- 🕸 First project: [to-do-list](https://github.com/josuehoenicka/to-do-list)*(public)*
+- 🕸 First project: [to-do-list](https://github.com/josuehoenicka/to-do-list) *(public)*
 - ✉ To reach me **josuee.vzla@gmail.com**
 
 <h3 align="left">Social media:</h3>
