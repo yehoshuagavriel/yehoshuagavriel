@@ -1,8 +1,8 @@
 <h3 align="center">Hi, I'm Josue Hoenicka 👋</h3>
 
 - 🥇 Project #1: [PlayHoenicka](https://josuehoenicka.github.io/)
-- 🥈 Project #1: [Dino.cka]([https://josuehoenicka.github.io/](https://github.com/josuehoenicka/dino.cka))
-- 🥉 Project #1: [Wordie.cka](https://github.com/josuehoenicka/wordie.cka)
+- 🥈 Project #2: [Dino.cka](https://github.com/josuehoenicka/dino.cka)
+- 🥉 Project #3: [Wordie.cka](https://github.com/josuehoenicka/wordie.cka)
 - ✉ To reach me **josuee.vzla@gmail.com**
 
 <h3 align="left">Social media:</h3>
