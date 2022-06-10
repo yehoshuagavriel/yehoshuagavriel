@@ -3,7 +3,7 @@
 - 🥇 [playhoenicka](https://josuehoenicka.github.io/) *videogame page (my first project)*
 - 🥈 [dino.cka](https://github.com/josuehoenicka/dino.cka) *playhoenicka's game*
 - 🥉 [wordie.cka](https://github.com/josuehoenicka/wordie.cka) *playhoenicka's game*
-- ✉ To reach me **josuee.vzla@gmail.com**
+- ✉ **josuee.vzla@gmail.com**
 
 <h3 align="left">Social media:</h3>
 <p align="left">
