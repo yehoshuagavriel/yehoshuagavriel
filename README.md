@@ -1,8 +1,6 @@
 <h3 align="center">Hi, I'm Josue Hoenicka 👋</h3>
 
-- 🏅 Best project: [playhoenicka](https://josuehoenicka.github.io/)
-- 🆕 Last project: [listenme.cka](https://github.com/josuehoenicka/listenme.cka)
-- 🕸 First project: [form](https://github.com/josuehoenicka/form)
+- 🏅 Project #1: [PlayHoenicka](https://josuehoenicka.github.io/)
 - ✉ To reach me **josuee.vzla@gmail.com**
 
 <h3 align="left">Social media:</h3>
