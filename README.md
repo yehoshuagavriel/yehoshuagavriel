@@ -1,8 +1,8 @@
 <h3 align="center">Hi, I'm Josue Hoenicka 👋</h3>
 
-- 🥇 [playhoenicka](https://josuehoenicka.github.io/) *videogame page (my first project)*
-- 🥈 [dino.cka](https://github.com/josuehoenicka/dino.cka) *playhoenicka's game*
-- 🥉 [wordie.cka](https://github.com/josuehoenicka/wordie.cka) *playhoenicka's game*
+- 🥇 [playhoenicka](https://josuehoenicka.github.io/) *my first project*
+- 🥈 [calculator](https://github.com/josuehoenicka/calculator) 
+- 🥉 [to-do-list](https://github.com/josuehoenicka/to-do-list)
 - ✉ **josuee.vzla@gmail.com**
 
 <h3 align="left">Social media:</h3>
