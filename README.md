@@ -1,8 +1,9 @@
 <h3 align="center">Hi, I'm Josue Hoenicka 👋</h3>
 
-<h3 align="left">SProjects:</h3>
-- 🥇 [playhoenicka](https://josuehoenicka.github.io/)
-- 🥈 [calculator](https://github.com/josuehoenicka/calculator) 
+<h3 align="left">Projects:</h3>
+
+- 🥇 [playhoenicka](https://josuehoenicka.github.io/)<br>
+- 🥈 [calculator](https://github.com/josuehoenicka/calculator)<br> 
 - 🥉 [to-do-list](https://github.com/josuehoenicka/to-do-list)
 
 <h3 align="left">Social media:</h3>
