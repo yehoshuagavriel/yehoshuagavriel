@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm <a href="https://www.linkedin.com/in/josuehoenicka/">Josue Hoenicka</a>, a frontend developer from Venezuela in Argentina</h2>
 
 <h4 align="center">Projects:</h4>
-<h3 align="center"><a href="https://github.com/playhoenicka">PlayHoenicka</a></h3>
+<h3 align="center"><a href="https://playhoenicka.github.io">PlayHoenicka</a></h3>
 
 <h4 align="center">Social media:</h4>
 <p align="center">
