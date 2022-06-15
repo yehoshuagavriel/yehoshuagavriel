@@ -1,7 +1,9 @@
 <h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/josuehoenicka/">Josue Hoenicka</a></h2>
 
 <h4 align="center">My projects:</h4>
-<h3 align="center"><a href="https://playhoenicka.github.io">PlayHoenicka</a></h3>
+<p align="center">
+  <a href="https://playhoenicka.github.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/josuehoenicka/playhoenicka/main/img/playhoenicka-icon.png" alt="playhoenicka" width="40" height="40"/></a> 
+</p>
 
 <h4 align="center">Social media:</h4>
 <p align="center">
