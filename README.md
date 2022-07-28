@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/josuehoenicka/">Josue Hoenicka</a></h2>
+<h2 align="center">👋 Hi, I'm Josue Hoenicka</h2>
 
 <h4 align="center">My projects:</h4>
 <p align="center">
