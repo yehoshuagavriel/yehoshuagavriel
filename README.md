@@ -1,4 +1,4 @@
-<h4 align="center">Projects:</h4>
+<h4 align="center">Online projects:</h4>
 <p align="center">
     <a href="https://playhoenix.github.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/josuehoenicka/playhoenicka/main/img/playhoenicka-icon.png" alt="playhoenix" width="40" height="40"></a>
 </p>
