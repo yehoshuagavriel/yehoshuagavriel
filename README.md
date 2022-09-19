@@ -1,6 +1,5 @@
 <h4 align="center">Social media:</h4>
 <p align="center">
-    <a href="https://github.com/josuehoenicka" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="josuehoenicka" height="30" width="40"></a>
     <a href="https://linkedin.com/in/josuehoenicka" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josuehoenicka" height="30" width="40"></a>
     <a href="https://instagram.com/josuehoenicka" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josuehoenicka" height="30" width="40"></a>
 </p>
