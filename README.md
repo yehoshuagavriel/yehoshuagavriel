@@ -4,4 +4,6 @@
   [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuehoenicka/)
   [![twitter](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josuehoenicka/?hl=es)
   
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark" alt="josuehoenicka" /></p>
+  
 </div>
