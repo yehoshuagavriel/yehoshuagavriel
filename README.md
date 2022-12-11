@@ -7,6 +7,5 @@
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark" alt="josue hoenicka" /></p>
   
-  G
 
 </div>
