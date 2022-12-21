@@ -4,7 +4,7 @@
   [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuehoenicka/)
   [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josuehoenicka/?hl=es)
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark" alt="josue hoenicka" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark" alt="josue hoenicka" /></p>
   
 
 </div>
