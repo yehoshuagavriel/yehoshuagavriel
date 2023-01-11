@@ -6,13 +6,7 @@
   </div>
   <div align="center">
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuehoenicka&show_icons=true&theme=highcontrast&title_color=9faff1fa&text_color=9faff1a1&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="josuehoenicka" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuehoenicka&show_icons=true&theme=highcontrast&title_color=9faff1fa&text_color=9faff1a1&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="josuehoenicka" />
   
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josuehoenicka&show_icons=true&title_color=9faff1fa&&text_color=9faff1a1&bg_color=000000&hide_border=true&locale=en" alt="josuehoenicka" />
   </div>
-  
-  <div align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josuehoenicka&show_icons=true&title_color=9faff1fa&&text_color=9faff1a1&bg_color=000000&hide_border=true&locale=en" alt="josuehoenicka" /></p>
-  
-  </div>
-
