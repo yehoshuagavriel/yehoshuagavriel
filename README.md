@@ -6,12 +6,18 @@
   [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=ffffff&color=161b22)](https://www.instagram.com/josuehoenicka/?hl=es)
  
  <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josuehoenicka&show_icons=false&title_color=ffffff&text_color=afaeae&bg_color=161b22&hide_border=true&locale=en" alt="josuehoenicka"/>
+   
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark&hide_border=true)
+  
+  </div>
+   
+   
 </div>
   
-<!-- [![](https://github-profile-trophy.vercel.app/?username=josuehoenicka&row=1&column=5&theme=onestar&no-bg=true&no-frame=true)](https://github.com/josuehoenicka?tab=repositories) -->
   
-  </div>
-  <div align="center">
+
   
-  </div>
+
+
+
+
