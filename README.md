@@ -1,10 +1,8 @@
 <div align="center">
 
-  
-
-  [![portfolio](https://img.shields.io/badge/formal_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=ffffff&color=151515)](https://springular.web.app)
-    [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=ffffff&color=151515)](https://www.linkedin.com/in/josuehoenicka/)
-  [![portfolio](https://img.shields.io/badge/informal_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=ffffff&color=151515)](https://bandicootfolio.web.app)
+ 
+  [![portfolio](https://img.shields.io/badge/full_stack_portfolio-000?style=for-the-badge&logo=google&logoColor=ffffff&color=151515)](https://springular.web.app) 
+  [![portfolio](https://img.shields.io/badge/front_end_portfolio-000?style=for-the-badge&logo=google&logoColor=ffffff&color=151515)](https://bandicootfolio.web.app)
  
  <div align="center">
    
