@@ -1,9 +1,8 @@
  
  <div align="center">
  
- [![portfolio](https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=ffffff&color=03050c)](https://www.hackerrank.com/josuehoenicka) 
- [![portfolio](https://img.shields.io/badge/freecodecamp-000?style=for-the-badge&logo=freecodecamp&logoColor=00000&color=03050c)](https://www.freecodecamp.org/josuehoenicka)
- [![portfolio](https://img.shields.io/badge/Duolingo-000?style=for-the-badge&logo=duolingo&logoColor=fffff&color=03050c)](https://www.duolingo.com/profile/josuehoenicka)
+ [![portfolio](https://img.shields.io/badge/Hacker_Rank_Profile-000?style=for-the-badge&logo=hackerrank&logoColor=ffffff&color=03050c)](https://www.hackerrank.com/josuehoenicka) 
+ [![portfolio](https://img.shields.io/badge/freecodecamp_Profile-000?style=for-the-badge&logo=freecodecamp&logoColor=00000&color=03050c)](https://www.freecodecamp.org/josuehoenicka)
    
 </div>
  
