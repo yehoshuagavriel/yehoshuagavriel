@@ -1,18 +1,20 @@
  <div align="center">
  
-[![Portfolio](https://img.shields.io/badge/Portfolio_(Full_stack)-0e1111?style=for-the-badge&logo=google&logoColor=white)](https://springular.web.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio_(Front_end)-0e1111?style=for-the-badge&logo=google&logoColor=white)](https://bandicootfolio.web.app)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio_(Software_Developer)-%23323330?style=for-the-badge&logo=google&logoColor=white)](https://springular.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio_(Web_Developer)-%23323330?style=for-the-badge&logo=google&logoColor=white)](https://bandicootfolio.web.app)
+ 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark&hide_border=true)
  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="37" height="37"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-    
+![JavaScript](https://img.shields.io/badge/.js-F7DF1E.svg?style=for-the-badge) 
+![TypeScript](https://img.shields.io/badge/.ts-007ACC.svg?style=for-the-badge) 
+![Ruby](https://img.shields.io/badge/.rb-CC342D.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/.py-3776AB?style=for-the-badge) 
+![Go](https://img.shields.io/badge/.go-00ADD8.svg?style=for-the-badge) 
+
 </div>
 
- 
+
+
   
   
 
