@@ -9,7 +9,6 @@
 ![TypeScript](https://img.shields.io/badge/.ts-007ACC.svg?style=for-the-badge) 
 ![Ruby](https://img.shields.io/badge/.rb-CC342D.svg?style=for-the-badge)
 ![Python](https://img.shields.io/badge/.py-3776AB?style=for-the-badge) 
-![Go](https://img.shields.io/badge/.go-00ADD8.svg?style=for-the-badge) 
 
 </div>
 
