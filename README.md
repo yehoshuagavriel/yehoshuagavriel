@@ -1,7 +1,7 @@
  <div align="center">
  
-[![Portfolio](https://img.shields.io/badge/Portfolio_(Software_Developer)-%23323330?style=for-the-badge&logo=google&logoColor=white)](https://springular.web.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio_(Web_Developer)-%23323330?style=for-the-badge&logo=google&logoColor=white)](https://bandicootfolio.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio_(as_full_stack)-%23323330?style=for-the-badge&logo=google&logoColor=white)](https://springular.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio_(as_front_end)-%23323330?style=for-the-badge&logo=google&logoColor=white)](https://bandicootfolio.web.app)
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark&hide_border=true)
  
