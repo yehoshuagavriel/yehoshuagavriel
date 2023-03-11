@@ -1,7 +1,5 @@
  <div align="center">
  
- 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google&logoColor=white)](https://hackenicka.firebaseapp.com/)
 [![Portfolio](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/josuehoenicka)
 [![Portfolio](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/josuehoenicka/)
 [![Portfolio](https://img.shields.io/badge/freeCodeCamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/josuehoenicka)
