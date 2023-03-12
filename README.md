@@ -1,7 +1,7 @@
  <div align="center">
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google&logoColor=white)](https://hackenicka.firebaseapp.com/)
-[![Portfolio](https://img.shields.io/badge/Blog_site-000000?style=for-the-badge&logo=google&logoColor=white)](https://bandicootfolio.web.app)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google&logoColor=white)](https://bandicootfolio.web.app)
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=josuehoenicka&theme=dark&hide_border=true)  
  
