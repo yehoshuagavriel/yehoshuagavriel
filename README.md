@@ -1,5 +1,6 @@
  <div align="center">
  
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge)](https://hackenicka.firebaseapp.com/)
 [![Blogsite](https://img.shields.io/badge/Blogsite-white?style=for-the-badge)](https://bandicootfolio.web.app)
  
@@ -12,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/.js-F7DF1E.svg?style=for-the-badge) 
 ![TypeScript](https://img.shields.io/badge/.ts-007ACC.svg?style=for-the-badge) 
 ![Ruby](https://img.shields.io/badge/.rb-CC342D.svg?style=for-the-badge)
+ 
  
 </div>
 
