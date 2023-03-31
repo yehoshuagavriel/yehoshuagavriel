@@ -1,8 +1,14 @@
  <div align="center">
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=google&logoColor=79FF97)](https://hackenicka.firebaseapp.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=79FF97)](https://www.linkedin.com/in/josuehoenicka/)
-[![Gmail](https://img.shields.io/badge/Contact_me-151515?style=for-the-badge&logo=gmail&logoColor=79FF97)](https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com)
+ <h1>Hi everyone. I'm Josue Hoenicka👋</h1>
+ <h3>My professional profile is as an Angular Front-End Developer🚀</h3>
+ <h3>I'm passionate about JavaScript, TypeScript, and Python💗</h3>
+ 
+ <br>
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=google&logoColor=ffffff)](https://hackenicka.firebaseapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/josuehoenicka/)
+[![Gmail](https://img.shields.io/badge/Contact_me-151515?style=for-the-badge&logo=gmail&logoColor=ffffff)](https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com)
   
 </div>
 
