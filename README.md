@@ -8,7 +8,7 @@
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=google&logoColor=ffffff)](https://hackenicka.firebaseapp.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/josuehoenicka/)
-[![Gmail](https://img.shields.io/badge/Contact_me-151515?style=for-the-badge&logo=gmail&logoColor=ffffff)](https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com)
+[![Contact_me](https://img.shields.io/badge/Contact_me-151515?style=for-the-badge&logo=gmail&logoColor=ffffff)](https://mail.google.com/mail/?view=cm&fs=1&to=josuee.vzla%40gmail.com)
   
 </div>
 
