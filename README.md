@@ -1,6 +1,6 @@
  <div align="center">
  
- <h1>Hi everyone. I'm Josue Hoenicka👋</h1>
+ <h2>Hi everyone. I'm Josue Hoenicka👋</h2>
  <h3>I'm passionate about JavaScript, TypeScript, and Python💗</h3>
  
  <br>
