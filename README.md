@@ -1,7 +1,6 @@
  <div align="center">
  
  <h1>Hi everyone. I'm Josue Hoenicka👋</h1>
- <h3>My professional profile is as an Angular Front-End Developer🚀</h3>
  <h3>I'm passionate about JavaScript, TypeScript, and Python💗</h3>
  
  <br>
