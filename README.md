@@ -2,7 +2,7 @@
  
  <h1 align="center">Hi everyone. I'm Josue Hoenicka👋</h1>
  <h3 align="justify">I'm a Christian programmer who enjoys learning more daily about web development, software development, cybersecurity, and other programming fields to help people💗</h3>
-<h3 align="justify">Currently, I'm deepening my knowledge of web development with JavaScript, TypeScript, and Python. Also, I'm taking my first steps into cybersecurity🚀</h3>
+<h3 align="justify">Currently, I'm deepening my knowledge of web development with JavaScript, TypeScript, and their libraries/frameworks. Also, I'm taking my first steps into cybersecurity🚀</h3>
  
  <br>
  
