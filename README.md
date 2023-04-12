@@ -1,8 +1,9 @@
  <div align="center">
  
- <h1 align="center">Hi everyone. I'm Josue Hoenicka👋</h1>
+ <h2 align="center">Hi everyone. I'm Josue Hoenicka👋</h2>
 
 <h3 align="center">I'm a Christian programmer who enjoys learning more daily about web development, software development, cybersecurity, and other programming fields to help people💗</h3>
+ 
 &nbsp;
  
 <!--  
