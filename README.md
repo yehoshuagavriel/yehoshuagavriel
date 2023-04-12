@@ -1,10 +1,15 @@
  <div align="center">
  
  <h1 align="center">Hi everyone. I'm Josue Hoenicka👋</h1>
- <h4 align="justify">I'm a Christian programmer who enjoys learning more daily about web development, software development, cybersecurity, and other programming fields to help people💗</h4>
-<h4 align="justify">Currently, I'm deepening my knowledge of web development with JavaScript, TypeScript, and their libraries/frameworks. Also, I'm taking my first steps into cybersecurity🚀</h4>
- 
+
+<h3 align="center">I'm a Christian programmer who enjoys learning more daily about web development, software development, cybersecurity, and other programming fields to help people💗</h3>
 &nbsp;
+ 
+<!--  
+<h3 align="justify">Currently, I'm deepening my knowledge of web development with JavaScript, TypeScript, and their libraries/frameworks. Also, I'm taking my first steps into cybersecurity🚀</h3> 
+-->
+ 
+
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josuehoenicka&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="josuehoenicka" style="height: 12em;"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuehoenicka&langs_count=3&theme=dark&hide_border=true&hide=html,scss,css,ruby,java,racket,sass" style="height: 12em;"/> 
