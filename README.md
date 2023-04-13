@@ -1,12 +1,14 @@
  <div align="center">
  
- <h2 align="center">Hi everyone. I'm Josue Hoenicka👋</h2>
+ <!--  
+
+<h2 align="center">Hi everyone. I'm Josue Hoenicka👋</h2>
 
 <h3 align="center">I'm a Christian programmer who enjoys learning more daily about web development, software development, cybersecurity, and other programming fields to help people💗</h3>
  
 &nbsp;
  
-<!--  
+
 <h3 align="justify">Currently, I'm deepening my knowledge of web development with JavaScript, TypeScript, and their libraries/frameworks. Also, I'm taking my first steps into cybersecurity🚀</h3> 
 -->
  
