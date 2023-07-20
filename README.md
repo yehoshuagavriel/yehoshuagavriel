@@ -1,6 +1,6 @@
  <div align="center">
 
- <h3>Learning daily about web development and other programming fields to help people 💗</h3>
+ <h3>Learning daily about web development and other programming fields to help people ❤</h3>
  
 <!--  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josuehoenicka&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="josuehoenicka" style="height: 12em;"/>
