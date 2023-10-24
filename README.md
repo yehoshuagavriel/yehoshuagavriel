@@ -1,6 +1,6 @@
  <div align="center">
 
-<h2 align="center">Software Developer | Polyglot | Freelance</h2>
+<h2 align="center">Software Developer | Digital Creator | Polyglot</h2>
 
 ###
 
