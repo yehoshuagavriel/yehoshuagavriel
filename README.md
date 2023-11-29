@@ -1,6 +1,6 @@
  <div align="center">
 
-<h2 align="center">Angular Developement Specialist</h2>
+<h2 align="center">Ssr Angular Developer</h2>
 
 ###
 
