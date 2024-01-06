@@ -1,6 +1,6 @@
  <div align="center">
 
-<h2 align="center">Ssr Angular Developer</h2>
+<h2 align="center">Mid Front-End Developer</h2>
 
 ###
 
@@ -9,13 +9,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angular logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -23,11 +21,6 @@
 </div>
 
 ###
- 
-<!--  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=josuehoenicka&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="josuehoenicka" style="height: 12em;"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuehoenicka&langs_count=3&theme=dark&hide_border=true&hide=html,scss,css,ruby,java,racket,sass" style="height: 12em;"/> 
-  -->
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=google&logoColor=ffffff)](https://hackenicka.firebaseapp.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/josuehoenicka/)
