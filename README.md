@@ -1,6 +1,6 @@
  <div align="center">
 
-<h2 align="center">Mid Angular Front-End Developer</h2>
+<h6 align="center">Angular Developer Ssr | Mid Front-End Developer | Full-Stack JavaScript Developer </h6>
 
 <!--
 
