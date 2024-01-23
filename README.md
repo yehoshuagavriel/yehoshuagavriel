@@ -2,7 +2,7 @@
 
 <h2 align="center">Mid Angular Front-End Developer</h2>
 
-###
+<!--
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -20,7 +20,7 @@
    
 </div>
 
-###
+--->
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=google&logoColor=ffffff)](https://hackenicka.firebaseapp.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/josuehoenicka/)
