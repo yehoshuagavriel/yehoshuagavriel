@@ -1,6 +1,6 @@
  <div align="center">
 
-<h6 align="center">Angular Developer Ssr | Mid Front-End Developer | Full-Stack JavaScript Developer </h6>
+<h6 align="center">Reality varies depending on the eyes that see it</h6>
 
 <!--
 
