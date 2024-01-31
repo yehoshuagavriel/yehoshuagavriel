@@ -1,6 +1,6 @@
  <div align="center">
 
-<h6 align="center">Reality varies depending on the eyes that see it</h6>
+<h2 align="center">Reality varies depending on the eyes that see it</h2>
 
 <!--
 
