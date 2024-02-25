@@ -1,7 +1,4 @@
  <div align="center">
-
-<h2 align="center">Reality varies depending on the eyes that see it</h2>
-
 <!--
 
 <div align="center">
