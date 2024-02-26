@@ -6,7 +6,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">✨ Creating solutions since 2018<br>📚 I'm currently learning Full-Stack Development with Angular, PHP & MySQL<br>🎯 I want to become an Angular Developer Specialist<br>🎲 Outside the code. I'm polyglot (Spanish, English, Portuguese) and worshiper (Guitar, Piano, Drums)</p>
+<p align="left">✨ Creating solutions since 2019<br>📚 I'm currently learning Full-Stack Development with Angular, PHP & MySQL<br>🎯 I want to become an Angular Developer Specialist<br>🎲 Outside the code. I'm polyglot (Spanish, English, Portuguese) and worshiper (Guitar, Piano, Drums)</p>
 
 
 <h2 align="left">Favorite programming languages</h2>
