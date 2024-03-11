@@ -6,4 +6,4 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">✨ Creating solutions since 2019<br>🎯 Angular Developer Specialist<br>🎲 Outside the code. I'm a worshipper of God and a polyglot</p>
+<p align="left">⚒️ Angular Front-End Developer @ LiberaSOFT <br>🎯 I want to become an Angular Developer Specialist<br>🎲 Outside the code. I'm a worshipper of God and a polyglot</p>
