@@ -6,4 +6,4 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">⚒️ Angular Front-End Developer @ LiberaSOFT <br>🎯 I want to become a Front-End Developer Sr<br>🎲 Outside the code. I'm a worshipper of God and a polyglot</p>
+<p align="left">🎯 I want to become a Front-End Developer Sr<br> ⚒️ Angular Front-End Developer @ LiberaSOFT <br>🎲 Outside the code. I'm a worshipper of God and a polyglot</p>
