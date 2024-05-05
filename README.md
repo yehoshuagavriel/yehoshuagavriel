@@ -1,1 +1,7 @@
-<p align="left">🎯 I'm a Software Developer with Angular, Node.js, MySQL and others techs<br> ⚒️ Mid Angular Developer @ Depsys Informática - LiberaSOFT <br>🎲 Outside the code. I'm a Christian and a polyglot</p>
+<p align="left">
+  📌 Christian. Software Developer. Polyglot
+  <br/> 
+  ⚒️ Mid Angular Developer @ Depsys Informática - LiberaSOFT
+  <br/>
+  🎯 Developing with Angular, Node.js, MySQL and other techs
+</p>
