@@ -1,7 +1,3 @@
-<p align="left">
-  📌 Christian. Software Developer. Polyglot
-  <br/> 
-  ⚒️ Mid Angular Developer @ Depsys Informática - LiberaSOFT
-  <br/>
-  🎯 Developing with Angular, Node.js, MySQL and other techs
-</p>
+<h2 align="center">
+  Christian. Software Engineer. Polyglot
+</h2>
